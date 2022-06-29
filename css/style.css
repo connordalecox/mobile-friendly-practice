@@ -36,8 +36,18 @@ footer {
     background-color: #093039;
     height: 75px;
     width: 100%;
+    display: flex;
+    display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 h1 {
     letter-spacing: 6px;
+}
+
+#footertext {
+    color:#fff;
+    font-size: 12px;
+
 }
