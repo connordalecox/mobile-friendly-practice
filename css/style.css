@@ -1,0 +1,43 @@
+
+
+#title {
+    z-index: 2;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 150px;
+    color: #fff;
+}
+
+#titlecont {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    color: #125462;
+    margin-top: 0;
+}
+
+.textcont {
+    padding: 10px 200px;
+}
+
+#bottomcont {
+    text-align: right;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: #093039;
+    height: 75px;
+    width: 100%;
+}
+
+h1 {
+    letter-spacing: 6px;
+}
